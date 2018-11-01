@@ -1,0 +1,20 @@
+# Ignore all word files
+*.docx
+
+# Ignore all excel files
+*.xlsx
+
+# Ignore all pages files
+*.pages
+
+# Ignore 'graphs' folder
+graphs/
+
+# Ignore .xml files
+*.xml
+
+# Ignore .iml files
+*.iml
+
+# Ignore .DS_Store files
+*.DS_Store
