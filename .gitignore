@@ -4,6 +4,12 @@
 # Ignore all excel files
 *.xlsx
 
+# Ignore csv files
+*.csv
+
+# Ignore arff files
+*.arff
+
 # Ignore all pages files
 *.pages
 
