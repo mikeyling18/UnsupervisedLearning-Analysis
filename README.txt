@@ -7,7 +7,7 @@ python <filename>.py
 
 The Java files are used to compile the accuracies of the different pre-processed datafiles. They can be run in Eclipse using the weka.jar dependency
 
-Please contact me at mling7@gatech.edu if you have any questions. Thanks!
+Please contact me at mikeyling18@gmail.com if you have any questions. Thanks!
 
 Mikey Ling 
 903278121
