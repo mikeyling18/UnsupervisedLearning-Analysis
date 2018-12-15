@@ -15,6 +15,8 @@
 
 # Ignore 'graphs' folder
 graphs/
+__pycache__/
+__init__/
 
 # Ignore .xml files
 *.xml
